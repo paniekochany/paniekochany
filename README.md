@@ -1,16 +1,18 @@
-### Hi there 👋
+# About me
 
-<!--
-**paniekochany/paniekochany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests:
+* cognitive psychology
+* philosophy of mind
+* statistics (frequentist and Bayesian)
+* Machine Learning 
 
-Here are some ideas to get you started:
+## Skills:
+* Python (incl. numpy, pandas, scipy, sympy, statsmodels, scikit-learn, matplotlib, pytest)
+* R (incl. tidyverse, and ML libraries like caret, randomForest, e1071 etc.)
+* SQL (MySQL, PostgreSQL)
+* frequentist statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning:
+* Deep Learning 
+* AWS
+* DevOps, MLOps
